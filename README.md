@@ -4,5 +4,5 @@
 - Network ID's
 - Subnet mask
 - Host Id range
-- # of usable Host
+- usable Hosts
 - Broadcast ID's
